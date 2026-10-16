@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+results/*/
+results/llm_cache.sqlite
+*.log
+*.err

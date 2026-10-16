@@ -1,0 +1,8 @@
+﻿
+Hash                                                             Path                                        
+----                                                             ----                                        
+85A0D07429CF5657371B2605B52943444876E0D566CD686D08D7FBDE6F7AD87E D:\CODE\sgv\preregistration\H3_multimodel.md
+8047D475FAE132EB70703A5B0BEEC494B31E85F6F54306BFC82BF57AA1927EFB D:\CODE\sgv\sgv\direction.py                
+
+
+
